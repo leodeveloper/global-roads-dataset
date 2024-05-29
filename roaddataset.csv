@@ -1,0 +1,804 @@
+Country,City,RoadName,Distance in KM
+Pakistan,Karachi,Main St,14.52
+Pakistan,Lahore,Oak St,27.81
+Pakistan,Islamabad,Cedar St,41.23
+Pakistan,Peshawar,Fir St,18.95
+Pakistan,Quetta,Birch St,63.14
+Pakistan,Multan,Pine St,31.47
+Pakistan,Faisalabad,Spruce St,25.89
+Pakistan,Rawalpindi,Cypress St,49.62
+Pakistan,Hyderabad,Elm St,56.78
+Pakistan,Sargodha,Maple St,38.45
+USA,New York,Main St,11.23
+Canada,Toronto,Oak St,43.91
+Mexico,Mexico City,Cedar St,29.85
+UK,London,Fir St,22.14
+France,Paris,Birch St,51.93
+Germany,Berlin,Pine St,35.67
+Italy,Rome,Spruce St,48.25
+Spain,Madrid,Cypress St,26.53
+China,Beijing,Elm St,39.18
+Japan,Tokyo,Maple St,44.82
+Pakistan,Karachi,Main St,17.39
+Pakistan,Lahore,Oak St,33.51
+Pakistan,Islamabad,Cedar St,46.98
+Pakistan,Peshawar,Fir St,20.74
+Pakistan,Quetta,Birch St,58.49
+Pakistan,Multan,Pine St,42.13
+Pakistan,Faisalabad,Spruce St,30.62
+Pakistan,Rawalpindi,Cypress St,24.85
+Pakistan,Hyderabad,Elm St,53.21
+Pakistan,Sargodha,Maple St,36.95
+USA,Los Angeles,Main St,19.27
+Canada,Vancouver,Oak St,45.69
+Mexico,Guadalajara,Cedar St,32.41
+UK,Birmingham,Fir St,25.18
+France,Marseille,Birch St,50.75
+Germany,Frankfurt,Pine St,38.29
+Italy,Rome,Spruce St,27.93
+Spain,Valencia,Cypress St,43.58
+China,Shenzhen,Elm St,40.14
+Japan,Nagoya,Maple St,31.79
+Pakistan,Karachi,Main St,22.65
+Pakistan,Lahore,Oak St,49.31
+Pakistan,Islamabad,Cedar St,35.85
+Pakistan,Peshawar,Fir St,29.51
+Pakistan,Quetta,Birch St,55.92
+Pakistan,Multan,Pine St,41.46
+Pakistan,Faisalabad,Spruce St,24.19
+Pakistan,Rawalpindi,Cypress St,37.82
+Pakistan,Hyderabad,Elm St,46.15
+Pakistan,Sargodha,Maple St,33.49
+USA,Chicago,Main St,18.93
+Canada,Ottawa,Oak St,42.98
+Mexico,Tijuana,Cedar St,30.67
+UK,Glasgow,Fir St,26.42
+France,Nice,Birch St,52.19
+Germany,Hamburg,Pine St,39.73
+Italy,Genoa,Spruce St,28.55
+Spain,Seville,Cypress St,44.29
+China,Chengdu,Elm St,36.11
+Japan,Fukuoka,Maple St,31.17
+Pakistan,Karachi,Main St,20.85
+Pakistan,Lahore,Oak St,48.62
+Pakistan,Islamabad,Cedar St,34.39
+Pakistan,Peshawar,Fir St,29.85
+Pakistan,Quetta,Birch St,54.46
+Pakistan,Multan,Pine St,42.91
+Pakistan,Faisalabad,Spruce St,26.11
+Pakistan,Rawalpindi,Cypress St,38.54
+Pakistan,Hyderabad,Elm St,45.83
+Pakistan,Sargodha,Maple St,33.93
+USA,Philadelphia,Main St,19.59
+Canada,Winnipeg,Oak St,46.35
+Mexico,Merida,Cedar St,31.49
+UK,Bristol,Fir St,27.69
+France,Nantes,Birch St,51.24
+Germany,Dresden,Pine St,40.58
+Italy,Florence,Spruce St,29.37
+Spain,Cordoba,Cypress St,43.19
+China,Xi'an,Elm St,36.65
+Japan,Kobe,Maple St,32.41
+Pakistan,Karachi,Main St,21.93
+Pakistan,Lahore,Oak St,49.09
+Pakistan,Islamabad,Cedar St,35.17
+Pakistan,Peshawar,Fir St,28.51
+Pakistan,Quetta,Birch St,53.71
+Pakistan,Multan,Pine St,41.82
+Pakistan,Faisalabad,Spruce St,27.15
+Pakistan,Rawalpindi,Cypress St,44.85
+Pakistan,Hyderabad,Elm St,46.51
+Pakistan,Sargodha,Maple St,34.27
+USA,San Diego,Main St,20.29
+Canada,St. John's,Oak St,47.62
+Mexico,Cancun,Cedar St,32.93
+UK,Swansea,Fir St,29.19
+France,Lille,Birch St,52.58
+Germany,Bremen,Pine St,40.39
+Italy,Turin,Spruce St,28.83
+Spain,Granada,Cypress St,43.62
+China,Wuhan,Elm St,37.49
+Japan,Kyoto,Maple St,33.75
+Pakistan,Karachi,Main St,22.17
+Pakistan,Lahore,Oak St,49.45
+Pakistan,Islamabad,Cedar St,35.69
+Pakistan,Peshawar,Fir St,27.31
+Pakistan,Quetta,Birch St,54.93
+Pakistan,Multan,Pine St,42.14
+Pakistan,Faisalabad,Spruce St,29.59
+Pakistan,Rawalpindi,Cypress St,45.38
+Pakistan,Hyderabad,Elm St,38.25
+Pakistan,Sargodha,Maple St,32.93
+USA,New York,5th Avenue,12
+USA,Los Angeles,Sunset Boulevard,15
+Canada,Toronto,Yonge Street,10
+UK,London,Oxford Street,8
+France,Paris,Champs-Élysées,5
+Germany,Berlin,Unter den Linden,7
+Australia,Sydney,George Street,9
+Japan,Tokyo,Shibuya Crossing,4
+Brazil,Rio de Janeiro,Avenida Atlântica,11
+China,Beijing,Chang'an Avenue,14
+Pakistan,Karachi,Shahrah-e-Faisal,13
+Pakistan,Lahore,MM Alam Road,12
+Pakistan,Islamabad,Jinnah Avenue,11
+Pakistan,Rawalpindi,Murree Road,10
+Pakistan,Faisalabad,Susan Road,9
+USA,Chicago,State Street,13
+Canada,Vancouver,Granville Street,7
+UK,Manchester,Deansgate,9
+France,Marseille,La Canebière,6
+Germany,Hamburg,Reeperbahn,10
+Australia,Melbourne,Collins Street,8
+Japan,Osaka,Midosuji Boulevard,5
+Brazil,São Paulo,Paulista Avenue,15
+China,Shanghai,Nanjing Road,13
+USA,Houston,Main Street,14
+Canada,Montreal,St. Catherine Street,8
+UK,Birmingham,Bullring,10
+France,Lyon,Rue de la République,7
+Germany,Munich,Maximilianstraße,9
+Australia,Brisbane,Queen Street,11
+Japan,Yokohama,Bashamichi Street,6
+Brazil,Salvador,Pelourinho,12
+China,Chongqing,Chaotianmen Square,14
+USA,Phoenix,Central Avenue,10
+Canada,Calgary,Stephen Avenue,9
+UK,Leeds,Briggate,11
+France,Toulouse,Rue Alsace Lorraine,8
+Germany,Cologne,Hohe Straße,7
+Australia,Perth,Murray Street,10
+Japan,Nagoya,Oasis 21,6
+Brazil,Brasília,Eixo Monumental,13
+China,Tianjin,Binjiang Avenue,15
+USA,Philadelphia,Broad Street,12
+Canada,Ottawa,Sparks Street,7
+UK,Glasgow,Buchanan Street,9
+France,Nice,Promenade des Anglais,11
+Germany,Frankfurt,Zeil,10
+Australia,Adelaide,Rundle Mall,8
+Japan,Sapporo,Odori Park,7
+Brazil,Fortaleza,Beira Mar Avenue,13
+China,Guangzhou,Huanshi Road,14
+USA,San Antonio,Market Street,11
+Canada,Edmonton,Jasper Avenue,8
+UK,Liverpool,Bold Street,10
+France,Bordeaux,Rue Sainte-Catherine,9
+Germany,Stuttgart,Königstraße,7
+Australia,Hobart,Elizabeth Street,6
+Japan,Fukuoka,Tenjin,12
+Brazil,Curitiba,Rua XV de Novembro,13
+China,Shenzhen,Huaqiang North Road,15
+USA,San Diego,Gaslamp Quarter,14
+Canada,Winnipeg,Portage Avenue,10
+UK,Bristol,Cabot Circus,8
+France,Lille,Rue Faidherbe,7
+Germany,Düsseldorf,Königsallee,9
+Australia,Canberra,Northbourne Avenue,11
+Japan,Kobe,Motomachi,12
+Brazil,Recife,Boa Viagem,14
+China,Chengdu,Chunxi Road,15
+USA,Dallas,Elm Street,10
+Canada,Hamilton,King Street,8
+UK,Edinburgh,Princess Street,9
+France,Strasbourg,Grand Rue,7
+Germany,Dresden,Prager Straße,6
+Australia,Darwin,Smith Street,11
+Japan,Kyoto,Shijo Street,12
+Brazil,Belo Horizonte,Afonso Pena Avenue,14
+China,Wuhan,Jianghan Road,15
+USA,Austin,Congress Avenue,9
+Canada,Quebec City,Grande Allée,8
+UK,Cardiff,Queen Street,10
+France,Nantes,Rue Crébillon,7
+Germany,Leipzig,Grimmaische Straße,6
+Australia,Gold Coast,Cavill Avenue,11
+Japan,Sendai,Jozenji Street,12
+Brazil,Porto Alegre,Andradas Street,14
+China,Nanjing,Xinjiekou,15
+USA,San Francisco,Lombard Street,8
+Canada,Halifax,Spring Garden Road,7
+UK,Belfast,Donegall Place,9
+France,Montpellier,Comédie,11
+Germany,Hannover,Georgstraße,10
+Australia,Cairns,Esplanade,6
+Japan,Hiroshima,Hondori Street,12
+Brazil,Manaus,Adrianópolis,13
+China,Xi'an,Bell Tower Avenue,14
+USA,Seattle,Pike Street,15
+Canada,Victoria,Government Street,8
+UK,Newcastle,Northumberland Street,10
+France,Marseille,Rue de la République,12
+Germany,Bremen,Sögestraße,9
+Australia,Townsville,Flinders Street,7
+Japan,Okayama,Omotecho Street,6
+Brazil,Salvador,Rua Chile,14
+China,Hangzhou,West Lake Avenue,15
+USA,Detroit,Woodward Avenue,11
+Canada,Kelowna,Harvey Avenue,8
+UK,Leicester,Highcross Street,10
+France,Clermont-Ferrand,Rue Blatin,12
+Germany,Nuremberg,Karolinenstraße,7
+Australia,Newcastle,Beaumont Street,9
+Japan,Shizuoka,Aoi Street,6
+Brazil,Fortaleza,Iracema Beach,14
+China,Zhengzhou,Erqi Square,15
+USA,Portland,Broadway,10
+Canada,Saskatoon,8th Street,9
+UK,Swansea,Wind Street,8
+France,Orléans,Rue Jeanne d'Arc,12
+Germany,Karlsruhe,Kaiserstraße,7
+Australia,Geelong,Moorabool Street,9
+Japan,Kagoshima,Tenmonkan,6
+Brazil,Belo Horizonte,Afonso Pena Avenue,14
+China,Qingdao,Zhongshan Road,15
+USA,Las Vegas,Las Vegas Boulevard,11
+Canada,Regina,Albert Street,8
+UK,Aberdeen,Union Street,10
+France,Grenoble,Place Grenette,12
+Germany,Freiburg,Kaiser-Joseph-Straße,7
+Australia,Sunshine Coast,Ocean Street,9
+Japan,Nagasaki,Hamanomachi,6
+Brazil,Natal,Ponta Negra,14
+China,Suzhou,Shiquan Street,15
+USA,Denver,Colfax Avenue,10
+Canada,St. John's,Water Street,9
+UK,Oxford,High Street,8
+France,Metz,Place Saint-Jacques,12
+Germany,Potsdam,Brandenburger Straße,7
+Australia,Toowoomba,Ruthven Street,9
+Japan,Matsuyama,Okaido Street,6
+Brazil,Teresina,Frei Serafim Avenue,14
+China,Dalian,Zhongshan Square,15
+USA,Memphis,Beale Street,11
+Canada,Fredericton,Queen Street,8
+UK,Cambridge,King's Parade,10
+France,Nancy,Place Stanislas,12
+Germany,Heidelberg,Hauptstraße,7
+Australia,Ballarat,Sturt Street,9
+Japan,Okinawa,Kokusai Street,6
+Brazil,João Pessoa,Cabo Branco,14
+China,Harbin,Central Avenue,15
+USA,Atlanta,Peachtree Street,10
+Canada,Thunder Bay,Red River Road,9
+UK,Dundee,High Street,8
+France,Reims,Place Drouet d'Erlon,12
+Germany,Wiesbaden,Wilhelmstraße,7
+Australia,Launceston,Brisbane Street,9
+Japan,Naha,International Street,6
+Brazil,Campinas,Barão de Itapura Avenue,14
+China,Ningbo,Zhongshan Road,15
+USA,Orlando,Orange Avenue,11
+Canada,Prince George,Victoria Street,8
+UK,Inverness,High Street,10
+France,Toulon,Avenue de la République,12
+Germany,Regensburg,Maximilianstraße,7
+Australia,Wollongong,Crown Street,9
+Japan,Kitakyushu,Kokura,6
+Brazil,Maceió,Pajuçara,14
+China,Fuzhou,East Street,15
+USA,Charlotte,Tryon Street,10
+Canada,Red Deer,Gaetz Avenue,9
+UK,Exeter,High Street,8
+France,Dijon,Rue de la Liberté,12
+Germany,Rostock,Kropeliner Straße,7
+Australia,Albury,Dean Street,9
+Japan,Nagano,Zenkōji-dōri,6
+Brazil,Aracaju,Orla de Atalaia,14
+China,Changsha,Huangxing Road,15
+USA,Tampa,Bayshore Boulevard,11
+Canada,Barrie,Dunlop Street,8
+UK,York,The Shambles,10
+France,Angers,Rue Lenepveu,12
+Germany,Kiel,Holstenstraße,7
+Australia,Bendigo,Pall Mall,9
+Japan,Kanazawa,Chuo-dori,6
+Brazil,Florianópolis,Avenida Beira Mar,14
+China,Jinan,Quancheng Road,15
+USA,Minneapolis,Hennepin Avenue,10
+Canada,Kitchener,King Street,9
+UK,Bath,Pulteney Bridge,8
+France,Laval,Rue de Rennes,12
+Germany,Erfurt,Anger,7
+Australia,Rockhampton,East Street,9
+Japan,Miyazaki,Ichibangai,6
+Brazil,Vitória,Av. Nossa Senhora dos Navegantes,14
+China,Shijiazhuang,Zhongshan East Road,15
+USA,San Jose,Almaden Boulevard,11
+Canada,Kingston,Princess Street,8
+UK,Lincoln,High Street,10
+France,Perpignan,Place de la République,12
+Germany,Kassel,Königsstraße,7
+Australia,Orange,Anson Street,9
+Japan,Kumamoto,Shimotori,6
+Brazil,Cuiabá,Av. Historiador Rubens de Mendonça,14
+China,Shenyang,Beiling Street,15
+USA,Oklahoma City,Broadway,10
+Canada,Sherbrooke,King Street,9
+UK,Canterbury,High Street,8
+France,Le Havre,Rue de Paris,12
+Germany,Würzburg,Dominikanerplatz,7
+Australia,Shepparton,Maude Street,9
+Japan,Oita,Central Arcade,6
+Brazil,Goiania,Av. 85,14
+China,Xiamen,Zhongshan Road,15
+USA,Tulsa,Peoria Avenue,11
+Canada,Brantford,Colborne Street,8
+UK,Stirling,Port Street,10
+France,Lorient,Quai des Indes,12
+Germany,Halle,Leipziger Straße,7
+Australia,Wagga Wagga,Baylis Street,9
+Japan,Nara,Sanjo-dori,6
+Brazil,Ribeirão Preto,Av. Independência,14
+China,Hefei,Changjiang Road,15
+USA,Wichita,Douglas Avenue,10
+Canada,Milton,Main Street,9
+UK,Chester,Bridge Street,8
+France,Quimper,Rue Kéréon,12
+Germany,Ingolstadt,Theaterstraße,7
+Australia,Bunbury,Victoria Street,9
+Japan,Takamatsu,Marugamemachi,6
+Brazil,São Luís,Av. dos Holandeses,14
+China,Taiyuan,Fuxi Street,15
+USA,New Orleans,Bourbon Street,11
+Canada,Moncton,Main Street,8
+UK,Colchester,High Street,10
+France,Rodez,Rue Neuve,12
+Germany,Ulm,Marktplatz,7
+Australia,Goulburn,Auburn Street,9
+Japan,Shiga,Ohmi-Hachiman,6
+Brazil,Belém,Avenida Almirante Barroso,14
+China,Nanning,Minzu Avenue,15
+USA,Baltimore,Charles Street,10
+Canada,Guelph,Stone Road,9
+UK,Norwich,Prince of Wales Road,8
+France,Amiens,Rue des Trois Cailloux,12
+Germany,Jena,Leutragraben,7
+Australia,Mount Gambier,Commercial Street,9
+Japan,Yokosuka,Dobuita Street,6
+Brazil,Campo Grande,Av. Afonso Pena,14
+China,Kunming,Jinbi Road,15
+USA,Anchorage,4th Avenue,11
+Canada,Peterborough,George Street,8
+UK,Salisbury,High Street,10
+France,Avignon,Rue de la République,12
+Germany,Magdeburg,Breiter Weg,7
+Australia,Tamworth,Peel Street,9
+Japan,Saga,Suga Shrine Street,6
+Brazil,Sorocaba,Av. Dom Aguirre,14
+China,Shantou,Haibin Road,15
+USA,Lexington,Main Street,10
+Canada,North Bay,Main Street,9
+UK,Windsor,Peascod Street,8
+France,Béziers,Allées Paul Riquet,12
+Germany,Fulda,Universitätsplatz,7
+Australia,Port Macquarie,Horton Street,9
+Japan,Morioka,Moriokaekimaedori,6
+Brazil,João Pessoa,Avenida Presidente Epitácio Pessoa,14
+China,Lanzhou,Zhangye Road,15
+USA,Louisville,Bardstown Road,11
+Canada,Lethbridge,3rd Avenue,8
+UK,Durham,Saddler Street,10
+France,Valence,Avenue Victor Hugo,12
+Germany,Gera,Heinrichstraße,7
+Australia,Albany,York Street,9
+Japan,Kofu,Kofuekimaedori,6
+Brazil,Niterói,Av. Jornalista Alberto Torres,14
+China,Haikou,Haifu Avenue,15
+USA,Lincoln,O Street,10
+Canada,Medicine Hat,South Railway Street,9
+UK,Gloucester,Eastgate Street,8
+France,Troyes,Rue Emile Zola,12
+Germany,Erlangen,Nürnberger Straße,7
+Australia,Broken Hill,Argent Street,9
+Japan,Utsunomiya,Baba-dori,6
+Brazil,Blumenau,Av. Presidente Castelo Branco,14
+China,Guiyang,Zhonghua Road,15
+USA,Madison,State Street,11
+Canada,Charlottetown,University Avenue,8
+UK,Winchester,High Street,10
+France,Chambéry,Avenue de Lyon,12
+Germany,Cottbus,Spremberger Straße,7
+Australia,Emerald,Egerton Street,9
+Japan,Kochi,Obiyamachi,6
+Brazil,Londrina,Avenida Higienópolis,14
+China,Nanchang,Zhongshan Road,15
+USA,Boise,Capitol Boulevard,10
+Canada,Abbotsford,South Fraser Way,9
+UK,Newport,Commercial Street,8
+France,Bayonne,Place de la Liberté,12
+Germany,Zwickau,Hauptmarkt,7
+Australia,Armidale,Beardy Street,9
+Japan,Matsumoto,Nawate Street,6
+Brazil,Teresópolis,Av. Delfim Moreira,14
+China,Lhasa,Barkhor Street,15
+USA,Fort Wayne,Calhoun Street,11
+Canada,Nanaimo,Commercial Street,8
+UK,Maidstone,Week Street,10
+France,Montauban,Allées du Consul Dupuy,12
+Germany,Trier,Weberbach,7
+Australia,Coffs Harbour,Harbour Drive,9
+Japan,Hachinohe,Hachinoheekimaedori,6
+Brazil,Bauru,Avenida Getúlio Vargas,14
+China,Hohhot,South Street,15
+USA,Chattanooga,Market Street,10
+Canada,Chilliwack,Yale Road,9
+UK,Woking,Commercial Way,8
+France,Albi,Rue Mariès,12
+Germany,Braunschweig,Friedrich-Wilhelm-Straße,7
+Australia,Nowra,Junction Street,9
+Japan,Yamagata,Tokamachi,6
+Brazil,Uberlândia,Av. João Naves de Ávila,14
+China,Ürümqi,Youhao Road,15
+USA,Springfield,Main Street,11
+Canada,Fort McMurray,Franklin Avenue,8
+UK,Slough,High Street,10
+France,Antibes,Avenue Robert Soleau,12
+Germany,Saarbrücken,St. Johanner Markt,7
+Australia,Traralgon,Franklin Street,9
+Japan,Akita,Nakadori,6
+Brazil,Petrópolis,Av. Koeler,14
+China,Changchun,Renmin Street,15
+USA,Tallahassee,Monroe Street,10
+Canada,Kamloops,Victoria Street,9
+UK,Torquay,Union Street,8
+France,Nevers,Rue du 14 Juillet,12
+Germany,Hildesheim,Großer Saatner,7
+Australia,Bathurst,William Street,9
+Japan,Kagoshima,Tenmonkan,6
+Brazil,Juiz de Fora,Av. Rio Branco,14
+China,Hefei,Huangshan Road,15
+USA,Des Moines,Locust Street,11
+Canada,Sudbury,Elm Street,8
+UK,Chelmsford,High Street,10
+France,Sète,Grand Rue Mario Roustan,12
+Germany,Hamm,Ostenallee,7
+Australia,Grafton,Prince Street,9
+Japan,Okinawa,Kokusai Street,6
+Brazil,Marília,Avenida das Esmeraldas,14
+China,Zhengzhou,Erqi Road,15
+USA,Davenport,Brady Street,10
+Canada,Saint John,King Street,9
+UK,Weymouth,St. Mary Street,8
+France,Annecy,Avenue de Genève,12
+Germany,Recklinghausen,Bochumer Straße,7
+Australia,Devonport,Rooke Street,9
+Japan,Okayama,Omotecho Street,6
+Brazil,Passo Fundo,Avenida Brasil,14
+China,Shenyang,Zhongshan Square,15
+USA,Santa Ana,Main Street,11
+Canada,Whitehorse,2nd Avenue,8
+UK,Birkenhead,Hamilton Square,10
+France,Dieppe,Grande Rue,12
+Germany,Göttingen,Weender Landstraße,7
+Australia,Kalgoorlie,Hannan Street,9
+Japan,Niigata,Bandai City,6
+Brazil,Santos,Av. Ana Costa,14
+China,Zunyi,Renmin Road,15
+USA,Jackson,Capitol Street,10
+Canada,Woodstock,Dundas Street,9
+UK,Blackpool,Promenade,8
+France,Cahors,Boulevard Gambetta,12
+Germany,Lübeck,Holstenstraße,7
+Australia,Warwick,Palmerin Street,9
+Japan,Tokushima,Shinmachi,6
+Brazil,Rondonópolis,Av. Lions Internacional,14
+China,Hefei,Wuhu Road,15
+USA,Green Bay,Main Street,11
+Canada,Corner Brook,West Street,8
+UK,Grimsby,Freeman Street,10
+France,Tarbes,Avenue Maréchal Foch,12
+Germany,Berlin,Unter den Linden,7
+Australia,Lismore,Magellan Street,9
+Japan,Tsukuba,Central Street,6
+Brazil,Santa Maria,Avenida Nossa Senhora Medianeira,14
+China,Wuxi,Nanchang Street,15
+USA,Sioux Falls,Phillips Avenue,10
+Canada,Brandon,Victoria Avenue,9
+UK,Hastings,Queen's Road,8
+France,Calais,Rue Royale,12
+Germany,Frankfurt,Zeil,7
+Australia,Geraldton,Marine Terrace,9
+Japan,Naha,International Street,6
+Brazil,Campina Grande,Avenida Brasília,14
+China,Lianyungang,Haizhou Road,15
+USA,New Haven,Chapel Street,11
+Canada,Belleville,Front Street,8
+UK,Eastbourne,Terminus Road,10
+France,Colmar,Rue des Marchands,12
+Germany,Munich,Maximilianstraße,7
+Australia,Dubbo,Macquarie Street,9
+Japan,Maebashi,Keyakidori,6
+Brazil,Itajaí,Avenida Joca Brandão,14
+China,Changzhou,Hongmei Park,15
+USA,St. Louis,Market Street,10
+Canada,Prince Albert,Central Avenue,9
+UK,Basildon,High Street,8
+France,Périgueux,Place du Coderc,12
+Germany,Leipzig,Grimmaische Straße,7
+Australia,Toowoomba,Ruthven Street,9
+Japan,Hamamatsu,Sunayama Street,6
+Brazil,Maringá,Avenida Brasil,14
+China,Lanzhou,Zhongshan Road,15
+USA,Hartford,Main Street,11
+Canada,Barrie,Dunlop Street,8
+UK,Oxford,High Street,10
+France,Valence,Avenue Victor Hugo,12
+Germany,Bremen,Ostertorsteinweg,7
+Australia,Launceston,Brisbane Street,9
+Japan,Takamatsu,Marugamemachi,6
+Brazil,Niterói,Av. Amaral Peixoto,14
+China,Taiyuan,Fuxi Street,15
+USA,Nashville,Broadway,10
+Canada,Vaughan,Highway 7,9
+UK,Lichfield,Bore Street,8
+France,Le Mans,Avenue du Général de Gaulle,12
+Germany,Freiburg,Schwabentorstraße,7
+Australia,Mandurah,Pinjarra Road,9
+Japan,Nagoya,Osu Kannon,6
+Brazil,Volta Redonda,Avenida Amaral Peixoto,14
+China,Xianyang,Jiefang Road,15
+USA,Little Rock,Markham Street,11
+Canada,Burlington,Brant Street,8
+UK,Dudley,Dudley Street,10
+France,Montluçon,Rue Bretonnieux,12
+Germany,Fulda,Universitätsplatz,7
+Australia,Gladstone,Goondoon Street,9
+Japan,Fukushima,Higashidori,6
+Brazil,Chapecó,Avenida Getúlio Dorneles Vargas,14
+China,Daqing,East Road,15
+USA,Laredo,San Bernardo Avenue,10
+Canada,Sault Ste. Marie,Queen Street,9
+UK,Harrogate,Parliament Street,8
+France,Chalon-sur-Saône,Rue Saint-Vincent,12
+Germany,Regensburg,Maximilianstraße,7
+Australia,Tamworth,Peel Street,9
+Japan,Nagano,Zenkōji-dōri,6
+Brazil,Palmas,Avenida JK,14
+China,Hohhot,South Street,15
+USA,Fort Collins,College Avenue,11
+Canada,Timmins,Algonquin Boulevard,8
+UK,Huddersfield,Kingsgate,10
+France,Besançon,Grande Rue,12
+Germany,Halle,Große Ulrichstraße,7
+Australia,Mount Isa,Camooweal Street,9
+Japan,Okinawa,Kokusai Street,6
+Brazil,Macapá,Avenida FAB,14
+China,Weifang,Dongfeng Street,15
+USA,Baton Rouge,Government Street,10
+Canada,Gatineau,Rue Principale,9
+UK,Loughborough,Market Street,8
+France,Poitiers,Rue Gambetta,12
+Germany,Lübeck,Holstenstraße,7
+Australia,Emerald,Egerton Street,9
+Japan,Matsuyama,Okaido Street,6
+Brazil,Vila Velha,Avenida Hugo Musso,14
+China,Guiyang,Zhonghua Road,15
+USA,Lubbock,19th Street,11
+Canada,St. Catharines,St. Paul Street,8
+UK,Hemel Hempstead,Marlowes,10
+France,Saint-Malo,Intra-Muros,12
+Germany,Bonn,Marktplatz,7
+Australia,Broken Hill,Argent Street,9
+Japan,Utsunomiya,Baba-dori,6
+Brazil,São Bernardo do Campo,Avenida Lucas Nogueira Garcez,14
+China,Yantai,Changjiang Road,15
+USA,Akron,Main Street,10
+Canada,Saint-Hyacinthe,Des Cascades Street,9
+UK,Watford,High Street,8
+France,Bastia,Place Saint-Nicolas,12
+Germany,Kiel,Holstenstraße,7
+Australia,Port Hedland,Anderson Street,9
+Japan,Kochi,Obiyamachi,6
+Brazil,Serra,Avenida Central,14
+China,Liuzhou,East Road,15
+USA,Spokane,Division Street,11
+Canada,Moose Jaw,Main Street,8
+UK,Darlington,High Row,10
+France,Cherbourg,Rue de la Paix,12
+Germany,Saarbrücken,St. Johanner Markt,7
+Australia,Mildura,Deakin Avenue,9
+Japan,Yokohama,Motomachi,6
+Brazil,Betim,Avenida Edmeia Mattos Lazzarotti,14
+China,Jining,Guhuai Street,15
+USA,Toledo,Monroe Street,10
+Canada,Fredericton,Queen Street,9
+UK,Scarborough,Westborough,8
+France,Ajaccio,Rue Cardinal Fesch,12
+Germany,Wiesbaden,Wilhelmstraße,7
+Australia,Horsham,Wilson Street,9
+Japan,Kumamoto,Shimotori,6
+Brazil,São José dos Campos,Avenida Cidade Jardim,14
+China,Wenzhou,Century Avenue,15
+USA,Corpus Christi,Ocean Drive,11
+Canada,Parksville,Island Highway,8
+UK,Newbury,Northbrook Street,10
+France,Limoges,Boulevard Louis Blanc,12
+Germany,Bayreuth,Luitpoldplatz,7
+Australia,Bathurst,William Street,9
+Japan,Shizuoka,Aoi Street,6
+Brazil,São Caetano do Sul,Avenida Goiás,14
+China,Langfang,Guangyang Road,15
+USA,Flint,Saginaw Street,10
+Canada,Sarnia,Front Street,9
+UK,Folkestone,High Street,8
+France,Brive-la-Gaillarde,Avenue de Paris,12
+Germany,Osnabrück,Neumarkt,7
+Australia,Tennant Creek,Peko Road,9
+Japan,Toyama,Sougawa Street,6
+Brazil,Jundiaí,Avenida Jundiaí,14
+China,Yangzhou,Wenchang Middle Road,15
+USA,Huntsville,University Drive,11
+Canada,Kenora,Main Street,8
+UK,Newcastle,Northumberland Street,10
+France,Blois,Rue Denis Papin,12
+Germany,Hagen,Elberfelder Straße,7
+Australia,Karratha,Dampier Road,9
+Japan,Asahikawa,Kaimono Koen,6
+Brazil,São Carlos,Avenida São Carlos,14
+China,Hefei,Hefei Road,15
+USA,Hartford,Main Street,10
+Canada,Cobourg,King Street,9
+UK,Halifax,Westgate,8
+France,Perpignan,Place de la République,12
+Germany,Trier,Weberbach,7
+Australia,Geraldton,Marine Terrace,9
+Japan,Sendai,Jozenji Street,6
+Brazil,Aracaju,Av. Ivo do Prado,14
+China,Shenyang,Zhongshan Square,15
+USA,Bridgeport,Main Street,11
+Canada,Duncan,Trunk Road,8
+UK,Oxford,High Street,10
+France,La Rochelle,Rue du Palais,12
+Germany,Karlsruhe,Kaiserstraße,7
+Australia,Broken Hill,Argent Street,9
+Japan,Yamagata,Tokamachi,6
+Brazil,Nova Iguaçu,Avenida Nilo Peçanha,14
+China,Zhenjiang,Zhenjiang Road,15
+USA,Boise,Capitol Boulevard,10
+Canada,Sherbrooke,King Street,9
+UK,Leicester,High Street,8
+France,Angers,Boulevard Foch,12
+Germany,Mainz,Schillerplatz,7
+Australia,Maitland,High Street,9
+Japan,Kochi,Obiyamachi,6
+Brazil,Aracaju,Avenida Beira Mar,14
+China,Jiangmen,Changjiang Road,15
+USA,Fort Wayne,Calhoun Street,11
+Canada,Drummondville,Rue Saint-François,8
+UK,Barnstaple,High Street,10
+France,Gap,Avenue de Provence,12
+Germany,Rostock,Neuer Markt,7
+Australia,Port Augusta,Commercial Road,9
+Japan,Kagoshima,Tenmonkan,6
+Brazil,Ribeirão Preto,Avenida 9 de Julho,14
+China,Zhuhai,Jingshan Road,15
+USA,Grand Rapids,Monroe Avenue,10
+Canada,Thunder Bay,Red River Road,9
+UK,Harlow,Broad Walk,8
+France,Mulhouse,Avenue du Président Kennedy,12
+Germany,Munich,Kaufingerstraße,7
+Australia,Geraldton,Marine Terrace,9
+Japan,Nagoya,Osu Kannon,6
+Brazil,Caxias do Sul,Avenida Júlio de Castilhos,14
+China,Zhongshan,Fuhua Road,15
+USA,Lansing,Washington Avenue,11
+Canada,Whitehorse,2nd Avenue,8
+UK,Haverfordwest,Bridge Street,10
+France,Roubaix,Grand Place,12
+Germany,Hannover,Kröpcke,7
+Australia,Darwin,Mitchell Street,9
+Japan,Tokyo,Shibuya,6
+Brazil,Porto Alegre,Avenida Farrapos,14
+China,Jiujiang,Xunyang Road,15
+USA,Provo,University Avenue,10
+Canada,Kamloops,Victoria Street,9
+UK,Chester,Bridge Street,8
+France,Valence,Place des Clercs,12
+Germany,Heidelberg,Hauptstraße,7
+Australia,Wollongong,Crown Street,9
+Japan,Kagoshima,Tenmonkan,6
+Brazil,São Luís,Av. Jerônimo de Albuquerque,14
+China,Shenzhen,Huaqiang North Road,15
+USA,Columbia,Main Street,11
+Canada,Peterborough,George Street,8
+UK,Stevenage,Queensway,10
+France,Poitiers,Rue de la Regratterie,12
+Germany,Koblenz,Löhrstraße,7
+Australia,Burnie,Mount Street,9
+Japan,Yamagata,Tokamachi,6
+Brazil,Campinas,Avenida Norte-Sul,14
+China,Xi'an,East Street,15
+USA,Duluth,Superior Street,10
+Canada,Prince George,George Street,9
+UK,Solihull,High Street,8
+France,Metz,Place d'Armes,12
+Germany,Rostock,Neuer Markt,7
+Australia,Albury,Dean Street,9
+Japan,Kofu,Kofuekimaedori,6
+Brazil,São José do Rio Preto,Av. Alberto Andaló,14
+China,Beijing,Wangfujing,15
+USA,Salem,Commercial Street,11
+Canada,Charlottetown,University Avenue,8
+UK,Loughborough,Market Street,10
+France,Montluçon,Rue Bretonnieux,12
+Germany,Darmstadt,Luisenplatz,7
+Australia,Launceston,Brisbane Street,9
+Japan,Fukushima,Higashidori,6
+Brazil,Rio Branco,Av. Ceará,14
+China,Changsha,Huangxing Road,15
+USA,Pittsburgh,Forbes Avenue,10
+Canada,Kingston,Princess Street,9
+UK,Brighton,West Street,8
+France,Paris,Champs-Élysées,12
+Germany,Hamburg,Mönckebergstraße,7
+Australia,Port Macquarie,Horton Street,9
+Japan,Sendai,Ichibancho,6
+Brazil,Salvador,Av. Tancredo Neves,14
+China,Wuhan,Jiefang Avenue,15
+USA,Tucson,4th Avenue,11
+Canada,Brandon,Victoria Avenue,8
+UK,Lincoln,High Street,10
+France,Orléans,Rue Jeanne d'Arc,12
+Germany,Nürnberg,Königstraße,7
+Australia,Wagga Wagga,Fitzmaurice Street,9
+Japan,Fukuoka,Daimyo,6
+Brazil,Recife,Avenida Agamenon Magalhães,14
+China,Guangzhou,Beijing Road,15
+USA,Fresno,Van Ness Avenue,10
+Canada,Abbotsford,South Fraser Way,9
+UK,Reading,Broad Street,8
+France,Montpellier,Avenue de la Justice,12
+Germany,Würzburg,Kaiserstraße,7
+Australia,Hobart,Elizabeth Street,9
+Japan,Kagoshima,Tenmonkan,6
+Brazil,Vitória,Av. Nossa Senhora dos Navegantes,14
+China,Chongqing,Jiefangbei,15
+USA,Newark,Market Street,11
+Canada,Whitehorse,2nd Avenue,8
+UK,Dudley,Dudley Street,10
+France,Nice,Avenue Jean Médecin,12
+Germany,Wolfsburg,Porschestraße,7
+Australia,Wodonga,High Street,9
+Japan,Fukuoka,Daimyo,6
+Brazil,São Luís,Av. dos Holandeses,14
+China,Xi'an,South Street,15
+USA,Salt Lake City,State Street,10
+Canada,Ottawa,Sparks Street,9
+UK,Hastings,Queen's Road,8
+France,Toulon,Boulevard de Strasbourg,12
+Germany,Regensburg,Maximilianstraße,7
+Australia,Mildura,Deakin Avenue,9
+Japan,Kanazawa,Chuo-dori,6
+Brazil,Contagem,Avenida João César de Oliveira,14
+China,Harbin,Central Avenue,15
+USA,Rockford,State Street,11
+Canada,Calgary,Stephen Avenue,8
+UK,Blackpool,Promenade,10
+France,Lille,Grand Place,12
+Germany,Hamburg,Jungfernstieg,7
+Australia,Whyalla,Jenkins Avenue,9
+Japan,Kyoto,Shijo-dori,6
+Brazil,Salvador,Av. Sete de Setembro,14
+China,Hangzhou,West Lake Avenue,15
+USA,San Diego,Gaslamp Quarter,10
+Canada,Victoria,Govt Street,9
+UK,Dartford,High Street,8
+France,Troyes,Rue Emile Zola,12
+Germany,Essen,Kettwiger Straße,7
+Australia,Taree,Victoria Street,9
+Japan,Kagoshima,Tenmonkan,6
+Brazil,São Paulo,Paulista Avenue,14
+China,Shanghai,Nanjing Road,15
+USA,Seattle,Pike Street,11
+Canada,Vancouver,Robson Street,8
+UK,Coventry,Broadgate,10
+France,Strasbourg,Place Kléber,12
+Germany,Cologne,Hohe Straße,7
+Australia,Perth,Murray Street,9
+Japan,Osaka,Dotonbori,6
+Brazil,Rio de Janeiro,Avenida Rio Branco,14
+China,Beijing,Changan Avenue,15
+USA,New York,5th Avenue,10
+Canada,Toronto,Yonge Street,9
+UK,London,Oxford Street,8
